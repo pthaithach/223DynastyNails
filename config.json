@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Dynasty Nails",
+        "slug"      : "Dynasty-nails",
+        "phone"     : "(770) 977-7096",
+        "email"     : "tamnguyenvn77@gmail.com",
+        "state"     : "Georgia 30062",
+        "address"   : "3101 Roswell Rd Ste L, Marietta, Georgia 30062",
+        "time_1"    : "Mon: Closed",
+        "time_2"    : "Tue - Sat: 10:00 AM - 07:30 PM",
+        "time_3"    : "Sun: 12:00 AM - 06:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/dynastynailsmarietta",
+        "instagram" :   "https://www.instagram.com/dynastynailsmarietta",
+        "google"    :   "https://g.page/dynastynailsmarietta",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk0OTB8ZHlzbmFzdHkzMTAxfEdBXzA4MTIzfDRkZWZlNTg0ZWNjNjMxM2UwYTc2MGU2ZjIwN2YyMjZj",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.4561827083085!2d-84.4629063!3d33.980814599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f51389436cdc3d%3A0x6169b017d82e66c7!2sDynasty%20Nail%20Spa!5e0!3m2!1sen!2s!4v1669376007844!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#545454",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#000000",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#939393",
+        "text_primary_hover"    :   "#000000",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "./img",
+    "domain":       "http://127.0.0.1:5500/"
+}
